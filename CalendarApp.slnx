@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CalendarApp.API/CalendarApp.API.csproj" />
+  <Project Path="CalendarApp.Application.Tests/CalendarApp.Application.Tests.csproj" />
+  <Project Path="CalendarApp.Application/CalendarApp.Application.csproj" />
+  <Project Path="CalendarApp.Domain.Tests/CalendarApp.Domain.Tests.csproj" />
+  <Project Path="CalendarApp.Domain/CalendarApp.Domain.csproj" />
+  <Project Path="CalendarApp.Infrastructure/CalendarApp.Infrastructure.csproj" />
+</Solution>
